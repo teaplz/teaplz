@@ -4,4 +4,4 @@ Hey there! 👋 I'm Tyler, a software engineer in his mid-30s with passions in a
 
 ## Projects
 
-* [🀄 Mahjong Tile Solitaire](https://github.com/teaplz/2ctilesol): A web adaptation of a particular variant of the game of mahjong solitaire, built with React and Vite and deployed on GitHub Pages.
+* [🀄 Mahjong Tile Solitaire](https://github.com/teaplz/UMTSolitaire): A web adaptation of mahjong solitaire that utilizes system font Unicode, built with React and Vite and deployed on GitHub Pages.
